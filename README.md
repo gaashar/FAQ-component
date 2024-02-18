@@ -1,0 +1,2 @@
+# FAQ-component
+frontendeval easy 
